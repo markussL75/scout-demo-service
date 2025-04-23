@@ -1,4 +1,5 @@
-name: docker-build
+name
+pip install tensorflow: docker-build
 
 on:
   push:
